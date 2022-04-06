@@ -1,5 +1,5 @@
 # heart_disease
-## Models
+## ToDo
 
 
 
@@ -9,4 +9,4 @@ microsoft(med-bert)|91|:heavy_check_mark:|
 biobert ||
 bertConfig+BertChar|**93 Best**|:heavy_check_mark:
 microsoft+focalLs||
-microsoft+charBert||
+microsoft+charBert|0.9128|:heavy_check_mark:
