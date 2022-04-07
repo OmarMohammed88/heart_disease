@@ -2,7 +2,7 @@
 ## ToDo
 
 
-
+All experiments have been evaluated on test set 
 Model type| F1-score |Done
 ------------ | ------------- |-----------|
 microsoft(med-bert)|91|✔️|
