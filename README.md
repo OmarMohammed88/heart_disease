@@ -5,10 +5,10 @@
 
 Model type| F1-score |Done
 ------------ | ------------- |-----------|
-microsoft(med-bert)|91|:heavy_check_mark:|
+microsoft(med-bert)|91|✔️|
 biobert ||
 biobert+charBert ||running
-bertConfig+BertChar|**93 Best**| running
+bertConfig+BertChar|**93.66**| ✔️
 bertConfig+BertChar+focalLS|| running
 microsoft+focalLs||
-microsoft+charBert|0.9128|:heavy_check_mark:
+microsoft+charBert|0.9128|✔️
